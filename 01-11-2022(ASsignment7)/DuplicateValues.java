@@ -1,4 +1,4 @@
-package Practical;
+package Assignment;
 //Write a java program to find the duplicate values of an array of integer values
 public class DuplicateValues {
 public static void main(String[] args) {
