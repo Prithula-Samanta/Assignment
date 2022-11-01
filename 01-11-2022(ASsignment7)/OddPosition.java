@@ -1,4 +1,4 @@
-package Practical;
+package Assignment;
 // we need to print the element of the array which are present in odd position
 public class OddPosition {
 	public static void main(String[] args) {
