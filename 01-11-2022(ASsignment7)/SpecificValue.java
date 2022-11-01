@@ -1,4 +1,4 @@
-package Practical;
+package Assignment;
 import java.util.Scanner;
 //write a java program to test if an array contains a specific value
 public class SpecificValue {
